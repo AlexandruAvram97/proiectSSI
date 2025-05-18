@@ -1,0 +1,47 @@
+{
+    "tests_by_mangled_function_name": {
+        "livrare_colete.x\u01c1Livrare\u01c1__init__": [
+            "test_livrare.py::test_C132",
+            "test_livrare.py::test_C3_invalid_distance",
+            "test_livrare.py::test_C121",
+            "test_livrare.py::test_boundary_values[1-10-25]",
+            "test_livrare.py::test_C2_invalid_weight",
+            "test_livrare.py::test_C122",
+            "test_livrare.py::test_C111",
+            "test_livrare.py::test_boundary_values[0-9.99-10]",
+            "test_livrare.py::test_boundary_values[5.01-50.01-65]",
+            "test_livrare.py::test_boundary_values[5-50-25]",
+            "test_livrare.py::test_C112",
+            "test_livrare.py::test_C131"
+        ],
+        "livrare_colete.x\u01c1Livrare\u01c1calculate": [
+            "test_livrare.py::test_C132",
+            "test_livrare.py::test_C3_invalid_distance",
+            "test_livrare.py::test_C121",
+            "test_livrare.py::test_boundary_values[1-10-25]",
+            "test_livrare.py::test_C2_invalid_weight",
+            "test_livrare.py::test_C122",
+            "test_livrare.py::test_C111",
+            "test_livrare.py::test_boundary_values[0-9.99-10]",
+            "test_livrare.py::test_boundary_values[5.01-50.01-65]",
+            "test_livrare.py::test_boundary_values[5-50-25]",
+            "test_livrare.py::test_C112",
+            "test_livrare.py::test_C131"
+        ]
+    },
+    "duration_by_test": {
+        "test_livrare.py::test_C111": 0.0002455000000054497,
+        "test_livrare.py::test_C112": 0.00014279999999189386,
+        "test_livrare.py::test_C121": 0.00012219999996432307,
+        "test_livrare.py::test_C122": 0.00012090000001307999,
+        "test_livrare.py::test_C131": 0.00012759999998479543,
+        "test_livrare.py::test_C132": 0.00010860000003276582,
+        "test_livrare.py::test_C2_invalid_weight": 0.00012540000000171858,
+        "test_livrare.py::test_C3_invalid_distance": 0.00012250000003177774,
+        "test_livrare.py::test_boundary_values[0-9.99-10]": 0.00013150000000905493,
+        "test_livrare.py::test_boundary_values[1-10-25]": 0.00012129999998933272,
+        "test_livrare.py::test_boundary_values[5-50-25]": 0.00010960000003024106,
+        "test_livrare.py::test_boundary_values[5.01-50.01-65]": 0.00010939999998527128
+    },
+    "stats_time": 0.109375
+}
